@@ -4,7 +4,7 @@
 
 <a href="https://s3.amazonaws.com/hicfiles.tc4ga.com/public/juicebox/Juicebox_1.8.8.dmg"><img src="images/maclogo.png" width=100 align="middle"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://s3.amazonaws.com/hicfiles.tc4ga.com/public/juicebox/Juicebox_1.8.8.dmg">Juicebox with Assembly Tools for Mac (Signed DMG)</a>
 
-<a href="https://s3.amazonaws.com/hicfiles.tc4ga.com/public/juicebox/Juicebox_1.8.8.exe"><img src="images/winlogo.png" width=100 align="middle"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://s3.amazonaws.com/hicfiles.tc4ga.com/public/juicebox/Juicebox_1.8.8.exe">Juicebox with Assembly Tools for Windows (Signed EXE)</a>
+<a href="https://s3.amazonaws.com/hicfiles.tc4ga.com/public/juicebox/Juicebox_1.8.8.exe"><img src="https://raw.githubusercontent.com/wiki/theaidenlab/juicebox/images/winlogo.png" width=100 align="middle"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://s3.amazonaws.com/hicfiles.tc4ga.com/public/juicebox/Juicebox_1.8.8.exe">Juicebox with Assembly Tools for Windows (Signed EXE)</a>
 
 
 <a href="https://s3.amazonaws.com/hicfiles.tc4ga.com/public/juicebox/Juicebox_1.8.8.jar"><img src="images/javalogo.png" width=100 align="middle"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://s3.amazonaws.com/hicfiles.tc4ga.com/public/juicebox/Juicebox_1.8.8.jar">Juicebox with Assembly Tools for Unix, Windows, etc. (Signed JAR)</a>
@@ -16,7 +16,7 @@ Juicebox requires Java: [download Java here](https://java.com/en/download/)
 
 ## Version 1.6.11
 
-<a href="http://hicfiles.tc4ga.com.s3.amazonaws.com/public/juicebox/Juicebox.1.6.11.exe"><img src="images/winlogo.png" width=100 align="middle"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://hicfiles.tc4ga.com.s3.amazonaws.com/public/juicebox/Juicebox.1.6.11.exe">Juicebox for Windows</a>
+<a href="http://hicfiles.tc4ga.com.s3.amazonaws.com/public/juicebox/Juicebox.1.6.11.exe"><img src="https://raw.githubusercontent.com/wiki/theaidenlab/juicebox/images/winlogo.png" width=100 align="middle"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://hicfiles.tc4ga.com.s3.amazonaws.com/public/juicebox/Juicebox.1.6.11.exe">Juicebox for Windows</a>
 
 <a href="http://hicfiles.tc4ga.com.s3.amazonaws.com/public/juicebox/Juicebox.1.6.11.dmg"><img src="images/maclogo.png" width=100 align="middle"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://hicfiles.tc4ga.com.s3.amazonaws.com/public/juicebox/Juicebox.1.6.11.dmg">Juicebox for Mac</a>
 
