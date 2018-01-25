@@ -1,7 +1,7 @@
 
 # Assembly Menu Options
 
- <img src="/Users/nathanielmusial/CS_Projects/Juicebox.wiki/images/assembly_menu.png" alt="assembly_menu">
+ <img src="images/assembly_menu.png" alt="assembly_menu">
 
 ## Loading and Saving Assemblies
 Prerequisites: Load Maps, Generate Hic and .assembly file from 3D DNA Pipeline, Juicebox version 1.XX
@@ -33,14 +33,14 @@ Select one or more features then point and click mouse cursor near diagonal at i
 
 ## Invert
 
- <img src="/Users/nathanielmusial/CS_Projects/Juicebox.wiki/images/invert.png" alt="invert">
+ <img src="images/invert.png" alt="invert">
 
 Select one or more features
 Move cursor to upper right/ lower left corner of selection box and click
 
 ## Group/Ungroup
 
- <img src="/Users/nathanielmusial/CS_Projects/Juicebox.wiki/images/group_ungroup.png" alt="group_ungroup">
+ <img src="images/group_ungroup.png" alt="group_ungroup">
 
  Select in between fatures at the diagonal to toggle grouping of the feature
 
