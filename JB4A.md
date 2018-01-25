@@ -4,7 +4,7 @@
  <img src="images/assembly_menu.png" alt="assembly_menu">
 
 ## Loading and Saving Assemblies
-Prerequisites: Load Maps, Generate Hic and .assembly file from 3D DNA Pipeline, Juicebox version 1.XX
+Prerequisites: Load Maps, Generate Hic and .assembly file from 3D DNA Pipeline, Juicebox version 1.8.8
 
 To load assemblies in Juiebox first load a Hic file then select "Import Map Assembly". Select an assembly file coresponding to the map loaded (.assembly)
 
