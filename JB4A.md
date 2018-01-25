@@ -48,6 +48,9 @@ Move cursor to upper right/ lower left corner of selection box and click
 Select a single feature and move mouse close to the diagonal unitl a yellow box appears. Resize the box using scroll and click to excute the edit
 
 ## Misc.
+
+<img src="images/assembly_right_click_menu.png" alt="assembly_right_click_menu">
+
 Undo cmd+u or ctrl+u redo cmd+r or ctrl+u
 Jump to diagonal
 
