@@ -26,6 +26,7 @@
       * [Color slider](Exploring-the-Data#color-slider)
       * [Normalizations](Exploring-the-Data#normalizations)
   * [Bookmarks](Bookmarks)
+  * [Juicebox Assembly Tools](Juicebox-Assembly-Tools) 
 
 # General
 * [Compile or Contribute](Compile-or-Contribute)

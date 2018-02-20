@@ -9,6 +9,8 @@
   * [Bookmarks](Bookmarks#bookmarks)
     * [Loading Location](Bookmarks#loading-location)
     * [Save State](Bookmarks#save-state)
+  * [Juicebox Assembly Tools](Juicebox-Assembly-Tools) 
+
 
 # General
 * [Compile or Contribute](Compile-or-Contribute)

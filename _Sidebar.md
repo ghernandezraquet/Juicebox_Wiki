@@ -7,7 +7,7 @@
   * [Annotations](Loading-Annotations-(Annotations-menu))
   * [Exploring the Data](Exploring-the-Data)
   * [Bookmarks](Bookmarks)
-* [Juicebox for Assembly](JB4A) 
+  * [Juicebox Assembly Tools](Juicebox-Assembly-Tools) 
 
 # General
 * [Compile or Contribute](Compile-or-Contribute)
