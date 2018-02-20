@@ -15,7 +15,7 @@ To save the assembly changes made click "Export Assembly" this will create a .as
 Load Original Map and .assembly file. Click on "Import Modified Assembly" and
 Select previously saved work
 
-## Misc
+## Other
 
 "Reset Assembly" will reset the assembly to its original state
 "Set scale" is used for changing the scaling of the Hic map. (comment on scaling possible)
@@ -47,7 +47,7 @@ Select in between scaffolds at the diagonal to adjust the boundary of a supersca
 ## correcting a misjoin
 Select a single scaffold and move the mouse cursor close to the diagonal unitl a yellow box appears. Resize the box using scroll. Then, click to split the scaffold into three smaller scafolds. A short scaffold is formed inside the yellow box which is relocated to the end of the refrence genome assembly. The other two scaffold stay in place and can be moved independantly
 
-## Misc.
+## Right Click Menu
 
 <img src="images/assembly_right_click_menu.png" alt="assembly_right_click_menu">
 
