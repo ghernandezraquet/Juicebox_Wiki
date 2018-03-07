@@ -1,6 +1,3 @@
-## Mac Latest Version (1.9.0)
-<a href="http://hicfiles.tc4ga.com.s3.amazonaws.com/public/juicebox/Juicebox_1.9.0.app.zip"><img src="images/maclogo.png" width=100 align="middle"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://hicfiles.tc4ga.com.s3.amazonaws.com/public/juicebox/Juicebox_1.9.0.app.zip">Juicebox with Assembly Tools for Mac (Zip file)</a>
-This fixes a problem unique to the Mac DMG where it was running very slowly.  Please report any problems opening or running the file since this is a new distribution method.
 
 ## Latest Version (1.8.8)
 
