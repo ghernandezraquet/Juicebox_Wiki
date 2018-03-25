@@ -1,4 +1,8 @@
 
+# Genome Assembly Cookbook
+
+Read about Juicebox Assembly Tools in <a href="https://www.dropbox.com/s/yq5oeuh0c9dlzhw/manual_180322.pdf?dl=0">Genome Assembly Cookbook</a>.
+
 # Assembly Menu Options
 
  <img src="images/assembly_menu.png" alt="assembly_menu">
