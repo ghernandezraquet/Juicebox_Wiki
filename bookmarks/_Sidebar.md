@@ -10,7 +10,7 @@
     * [Loading Location](Bookmarks#loading-location)
     * [Save State](Bookmarks#save-state)
   * [Juicebox Assembly Tools](Juicebox-Assembly-Tools) 
-
+  * [Submapping](Submapping) 
 
 # General
 * [Compile or Contribute](Compile-or-Contribute)

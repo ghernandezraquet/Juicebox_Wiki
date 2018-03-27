@@ -19,7 +19,8 @@
     * [Exporting Hand Annotations](Loading-Annotations-(Annotations-menu)#exporting-hand-annotations)
   * [Exploring the Data](Exploring-the-Data)
   * [Bookmarks](Bookmarks)
-
+  * [Juicebox Assembly Tools](Juicebox-Assembly-Tools)
+  * [Submapping](Submapping) 
 # General
 * [Compile or Contribute](Compile-or-Contribute)
 * [Citing Juicebox](Citing-Juicebox)
