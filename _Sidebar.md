@@ -7,7 +7,8 @@
   * [Annotations](Loading-Annotations-(Annotations-menu))
   * [Exploring the Data](Exploring-the-Data)
   * [Bookmarks](Bookmarks)
-  * [Juicebox Assembly Tools](Juicebox-Assembly-Tools) 
+  * [Juicebox Assembly Tools](Juicebox-Assembly-Tools)
+  * [Submapping](Submapping) 
 
 # General
 * [Compile or Contribute](Compile-or-Contribute)
