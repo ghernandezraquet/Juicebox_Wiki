@@ -129,4 +129,4 @@ A set of hand annotations can be exported by going to *Annotations* → *Hand An
 
 Exported annotations can be loaded as a basic 2D annotation, by selecting the file by going to *Annotations* → *Load Basic Annotations...* → *Add 2D...*
 
-Let's see some more features for [exploring the map](ExploringData).
+Let's see some more features for [exploring the map](Exploring-the-Data).
