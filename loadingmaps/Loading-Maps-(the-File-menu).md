@@ -61,4 +61,4 @@ key = parent_key, text_to_be_displayed, URL_or_file_location
 ```
 For MAPQ > 30 maps, Juicebox searches for the same filename but with `_30.hic` as the extension; so for the primary+replicate example above, Juicebox searches for `https://hicfiles.s3.amazonaws.com/hiseq/gm12878/in-situ/combined_30.hic` when MAPQ > 30 is selected.
 
-Let's try [loading annotations](Annotations) next.
+Let's try [loading annotations](https://github.com/aidenlab/Juicebox/wiki/Loading-Annotations-(Annotations-menu)) next.
