@@ -1,16 +1,23 @@
-## Development Version (1.9.8)
+## Development Version (1.11.08)
 
 *Due to active development, bugs may be encountered. Please email us or create a github issue for these bugs and we will fix them ASAP.*
+<a href="https://hicfiles.tc4ga.com.s3.amazonaws.com/public/Juicebox/Juicebox_1.11.08.exe"><img src="images/winlogo.png" width=100 align="middle"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://hicfiles.tc4ga.com.s3.amazonaws.com/public/Juicebox/Juicebox_1.11.08.exe">Juicebox with Assembly Tools for Windows (Signed EXE)</a>
 
-<a href="http://hicfiles.tc4ga.com.s3.amazonaws.com/public/Juicebox/Juicebox_1.9.8.exe"><img src="images/winlogo.png" width=100 align="middle"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://hicfiles.tc4ga.com.s3.amazonaws.com/public/Juicebox/Juicebox_1.9.8.exe">Juicebox with Assembly Tools for Windows (Signed EXE)</a>
+<a href="https://hicfiles.tc4ga.com.s3.amazonaws.com/public/Juicebox/Juicebox_1.11.08.dmg"><img src="images/maclogo.png" width=100 align="middle"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://hicfiles.tc4ga.com.s3.amazonaws.com/public/Juicebox/Juicebox_1.11.08.dmg">Juicebox with Assembly Tools for Mac (Signed DMG)</a>
 
-<a href="http://hicfiles.tc4ga.com.s3.amazonaws.com/public/Juicebox/Juicebox_1.9.8.dmg"><img src="images/maclogo.png" width=100 align="middle"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://hicfiles.tc4ga.com.s3.amazonaws.com/public/Juicebox/Juicebox_1.9.8.dmg">Juicebox with Assembly Tools for Mac (Signed DMG)</a>
-
-<a href="http://hicfiles.tc4ga.com.s3.amazonaws.com/public/Juicebox/Juicebox_1.9.8.jar"><img src="images/javalogo.png" width=100 align="middle"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://hicfiles.tc4ga.com.s3.amazonaws.com/public/Juicebox/Juicebox_1.9.8.jar">Juicebox with Assembly Tools for Unix, Windows, etc. (Signed JAR)</a>
+<a href="https://hicfiles.tc4ga.com.s3.amazonaws.com/public/Juicebox/Juicebox_1.11.08.jar"><img src="images/javalogo.png" width=100 align="middle"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://hicfiles.tc4ga.com.s3.amazonaws.com/public/Juicebox/Juicebox_1.11.08.jar">Juicebox with Assembly Tools for Unix, Windows, etc. (Signed JAR)</a>
 
 Juicebox requires Java: [download Java here](https://java.com/en/download/)
 
 **On Windows, be sure to download 64-bit Java**: [direct link here](http://javadl.oracle.com/webapps/download/AutoDL?BundleId=218833_e9e7ea248e2c4826b92b3f075a80e441)
+
+##  Version (1.9.8)
+
+<a href="https://hicfiles.tc4ga.com.s3.amazonaws.com/public/Juicebox/Juicebox_1.9.8.exe"><img src="images/winlogo.png" width=100 align="middle"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://hicfiles.tc4ga.com.s3.amazonaws.com/public/Juicebox/Juicebox_1.9.8.exe">Juicebox with Assembly Tools for Windows (Signed EXE)</a>
+
+<a href="http://hicfiles.tc4ga.com.s3.amazonaws.com/public/Juicebox/Juicebox_1.9.8.dmg"><img src="images/maclogo.png" width=100 align="middle"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://hicfiles.tc4ga.com.s3.amazonaws.com/public/Juicebox/Juicebox_1.9.8.dmg">Juicebox with Assembly Tools for Mac (Signed DMG)</a>
+
+<a href="http://hicfiles.tc4ga.com.s3.amazonaws.com/public/Juicebox/Juicebox_1.9.8.jar"><img src="images/javalogo.png" width=100 align="middle"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://hicfiles.tc4ga.com.s3.amazonaws.com/public/Juicebox/Juicebox_1.9.8.jar">Juicebox with Assembly Tools for Unix, Windows, etc. (Signed JAR)</a>
 
 ## Version (1.8.8/1.9.0)
 
