@@ -1,6 +1,7 @@
 ## Development Version (1.11.08)
 
 *Due to active development, bugs may be encountered. Please email us or create a github issue for these bugs and we will fix them ASAP.*
+
 <a href="https://hicfiles.tc4ga.com.s3.amazonaws.com/public/Juicebox/Juicebox_1.11.08.exe"><img src="images/winlogo.png" width=100 align="middle"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://hicfiles.tc4ga.com.s3.amazonaws.com/public/Juicebox/Juicebox_1.11.08.exe">Juicebox with Assembly Tools for Windows (Signed EXE)</a>
 
 <a href="https://hicfiles.tc4ga.com.s3.amazonaws.com/public/Juicebox/Juicebox_1.11.08.dmg"><img src="images/maclogo.png" width=100 align="middle"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://hicfiles.tc4ga.com.s3.amazonaws.com/public/Juicebox/Juicebox_1.11.08.dmg">Juicebox with Assembly Tools for Mac (Signed DMG)</a>
