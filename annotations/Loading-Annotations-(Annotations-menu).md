@@ -33,7 +33,13 @@ Click *Add 1D...*. A file explorer window will open.  Select your track file. Th
 
 Some of the annotations in Juicebox are marked on the main map. An example is available in the *GM2878 in situ MBOI primary + replicate* map. After opening this map, a "Data-set specific 2D features" annotations are available in the annotations menu. Use the `F2` key to toggle the visibility of 2D annotations.
 
-In order to create your own 2D annotation files, simply follow the following file format:
+Juicebox supports the <a href="https://bedtools.readthedocs.io/en/latest/content/general-usage.html#bedpe-format">bedpe</a> format for 2D annotations and uses this format for writing loop and domain files. The header line looks like this:
+
+```
+#chr1	x1	x2	chr2	y1	y2	name	score	strand1	strand2	color [optional fields]
+chrX   85000000   89000000   chrX   85000000   89000000    .   .   .   .  255,0,0
+``` 
+For backwards compatibility, we still support the below format as well, but encourage everyone to use bedpe instead.
 
 ```
 chr1   x1         x2         chr2   y1         y2         color     comment
@@ -52,6 +58,7 @@ Note:
 2. Keep the header line.
 
 3. The file is tab delimited.
+
 
 # Custom Annotations #
 
