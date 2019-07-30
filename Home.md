@@ -8,9 +8,11 @@ Juicebox is visualization software for Hi-C experiments. Using Juicebox, you can
 * load your own Hi-C data by creating your map using [Juicer tools](https://github.com/theaidenlab/juicer/wiki/Pre) and opening it in Juicebox
 * ...and more!
 
+# **NEW** [Juicebox and Juicebox.JS ENCODE tutorial](https://aidenlab.gitbook.io/juicebox/): [aidenlab.gitbook.io/juicebox](https://aidenlab.gitbook.io/juicebox/)
+
 # Quick Start #
 
-**NEW** [Juicebox and Juicebox.JS ENCODE tutorial](https://aidenlab.gitbook.io/juicebox/): https://aidenlab.gitbook.io/juicebox/
+
 
 1. Start by downloading Juicebox for [Windows](https://s3.amazonaws.com/hicfiles.tc4ga.com/public/Juicebox.exe), [Mac](https://s3.amazonaws.com/hicfiles.tc4ga.com/public/Juicebox.dmg), or simply the [jar](https://s3.amazonaws.com/hicfiles.tc4ga.com/public/Juicebox.jar). Also available [here](Download).
 2. Watch the video:
