@@ -10,7 +10,7 @@ Juicebox is visualization software for Hi-C experiments. Using Juicebox, you can
 
 # Quick Start #
 
-**NEW** [Juicebox ENCODE tutorial](https://aidenlab.gitbook.io/juicebox/)
+**NEW** [Juicebox and Juicebox.JS ENCODE tutorial](https://aidenlab.gitbook.io/juicebox/): https://aidenlab.gitbook.io/juicebox/
 
 1. Start by downloading Juicebox for [Windows](https://s3.amazonaws.com/hicfiles.tc4ga.com/public/Juicebox.exe), [Mac](https://s3.amazonaws.com/hicfiles.tc4ga.com/public/Juicebox.dmg), or simply the [jar](https://s3.amazonaws.com/hicfiles.tc4ga.com/public/Juicebox.jar). Also available [here](Download).
 2. Watch the video:
