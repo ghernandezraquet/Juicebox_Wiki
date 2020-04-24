@@ -55,7 +55,7 @@ Select a single scaffold and move the mouse cursor close to the diagonal. A curs
 
 Changes can be reversed or redone by selecting undo or redo or using the keyboard shortcut:
 undo 'cmd+u' or 'ctrl+u' 
-redo 'cmd+r' or  'ctrl+u'
+redo 'cmd+r' or  'ctrl+r'
 
 Jump to diagonal moves the view to the diagonal in the direction of the arrow.
 
