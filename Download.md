@@ -1,3 +1,7 @@
+## Development Version 2.XX.XX
+
+Newer jar releases are posted under [Github Releases](https://github.com/aidenlab/Juicebox/releases) in the Juicebox repo.
+
 ## Development Version (1.11.08)
 
 *Due to active development, bugs may be encountered. Please email us or create a github issue for these bugs and we will fix them ASAP.*
